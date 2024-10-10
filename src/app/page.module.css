@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    flex-direction: column; /* Default to vertical layout for mobile */
+  }
+  
+ 
+  
+  @media (min-width: 768px) {
+    .container {
+      flex-direction: row; /* Change to horizontal layout on desktop */
+      flex-wrap: wrap; /* Allow wrapping */
+    }
+  
+    
+  
+    
+  }

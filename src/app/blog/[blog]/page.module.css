@@ -1,0 +1,14 @@
+.heroImage{
+    width:100%;
+    min-height:350px;
+    position:relative;
+    border-radius:10px;
+}
+.aside{
+    border-radius:10px;
+}
+.postImage{
+    position: relative;
+    width:100%;
+    height:500px;
+}
